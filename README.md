@@ -1,1 +1,1 @@
-# ML-algorithms
+# Data Science practice
